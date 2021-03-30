@@ -31,4 +31,5 @@ module.exports = {
 		"no-restricted-globals": "off",
 	},
 };
-};
+
+
